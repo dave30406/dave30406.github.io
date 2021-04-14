@@ -1,7 +1,7 @@
 # **git & gh-pages practicing**
 This is a practice for git push & pull function using Git Bash and also using github to hosted GitHub Pages directly from this repository.
 
-GitHub Pages : [https://dave30406.github.io.](https://https://dave30406.github.io.)
+GitHub Pages : [https://dave30406.github.io/](https://dave30406.github.io/)
 
 files were written on CodePen.io. 
 Original URL : [https://codepen.io/uryrapak-the-lessful/pen/XWpqjeq](https://codepen.io/uryrapak-the-lessful/pen/XWpqjeq).
